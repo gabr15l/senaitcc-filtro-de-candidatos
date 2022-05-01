@@ -26,8 +26,6 @@ RNF:003 - O usuário deve ter instalado em seu computador o python na versao 3.8
 
 <h3>CASO DE USO: REGISTRO DE CANDIDATOS </h3>
 
-<H2>IMAGEM VAMO PÔ</H2>
-
 1-O usuário deve acessar o site e realizar um cadastro das informações pessoais juntamente do seu currículo e filtros selecionados e enviar para análise.
 2-O sistema salva o cadastro do usuário em um banco de dados e logo após a análise,será exibido para as empresas(a análise levará até 24hrs).
 
@@ -36,10 +34,12 @@ RNF:003 - O usuário deve ter instalado em seu computador o python na versao 3.8
 1-A empresa acessará uma página específica para cadastro,aceitará os termos de uso.
 2-A empresa deve acessar o site e realizar um cadastro das informações jurídicas e enviar para análise.
 3-O sistema salva o cadastro da empresa em um banco de dados e logo após a análise,será exibido na plataforma(a análise levará até 24hrs).
- 
+<hr>
+<h3>CASO DE USO GERAL</h3>
+Nosso site obterá informações cadastrais de pessoas físicas e jurídicas, bem como os filtros selecionados no preenchimento, e após obter essas informações, o site as analisará, comparará e exibirá em páginas específicas para resultados da pesquisa.
+<hr>
+<h3>Diagrama de classe</h3>
+
+![diagrama de classe](https://user-images.githubusercontent.com/103609825/166168514-5cc50cc5-2d8e-4b36-bfe8-218dfb327887.png)
 
 
-<h3> caso de uso: gerar planilha excel baseado na tabela FIPE </h3>
-# -----------------------------------------------
-
-O sistema deve realizar uma busca através de uma API Web que traz dados oficias 
