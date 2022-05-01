@@ -39,7 +39,6 @@ RNF:003 - O usuário deve ter instalado em seu computador o python na versao 3.8
 Nosso site obterá informações cadastrais de pessoas físicas e jurídicas, bem como os filtros selecionados no preenchimento, e após obter essas informações, o site as analisará, comparará e exibirá em páginas específicas para resultados da pesquisa.
 <hr>
 <h3>Diagrama de classe</h3>
-
 ![diagrama de classe](https://user-images.githubusercontent.com/103609825/166168514-5cc50cc5-2d8e-4b36-bfe8-218dfb327887.png)
 
 
