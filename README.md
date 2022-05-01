@@ -27,12 +27,15 @@ RNF:003 - O usuário deve ter instalado em seu computador o python na versao 3.8
 <h3>CASO DE USO: REGISTRO DE CANDIDATOS </h3>
 
 1-O usuário deve acessar o site e realizar um cadastro das informações pessoais juntamente do seu currículo e filtros selecionados e enviar para análise.
+
 2-O sistema salva o cadastro do usuário em um banco de dados e logo após a análise,será exibido para as empresas(a análise levará até 24hrs).
 
 <h3>CASO DE USO: CADASTRO EMPRESA </h3>
 <hr>
 1-A empresa acessará uma página específica para cadastro,aceitará os termos de uso.
+
 2-A empresa deve acessar o site e realizar um cadastro das informações jurídicas e enviar para análise.
+
 3-O sistema salva o cadastro da empresa em um banco de dados e logo após a análise,será exibido na plataforma(a análise levará até 24hrs).
 <hr>
 <h3>CASO DE USO GERAL</h3>
