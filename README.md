@@ -17,7 +17,6 @@ RF-003: O cadastro dos dados da empresa e do candidato serão gravados no banco 
 RNF:001 - Garantir o funcionamento do site nos navegadores: Edge,google chrome.
 
 RNF:002 - O sistema deve ter acesso a internet.
-
 RNF:003 - O usuário deve ter instalado em seu computador o python na versao 3.8.10 ou superior.
 <hr>
 <h3>Regras de Negócio</h3> 
