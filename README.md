@@ -47,7 +47,7 @@ Nosso site obterá informações cadastrais de pessoas físicas e jurídicas, be
 [Untitled.pdf](https://github.com/RenatodePaula19/senaitcc-filtro-de-candidatos/files/8606599/Untitled.pdf)
 
 
-[EMPRESA.pdf](https://github.com/RenatodePaula19/senaitcc-filtro-de-candidatos/files/8627837/EMPRESA.pdf)
+
 
 
 
