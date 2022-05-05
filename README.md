@@ -43,15 +43,7 @@ Nosso site obterá informações cadastrais de pessoas físicas e jurídicas, be
 <h3>Diagrama de classe</h3>
 ![diagrama de classe](https://user-images.githubusercontent.com/103609825/166168514-5cc50cc5-2d8e-4b36-bfe8-218dfb327887.png)
 
-
-
-
-
-[DIAGRAMA_DE_CASOS_TCC_PRONTO.pdf](https://github.com/RenatodePaula19/senaitcc-filtro-de-candidatos/files/8628008/DIAGRAMA_DE_CASOS_TCC_PRONTO.pdf)
-
-
-
-
+[DIAGRAMA_TCC_3.0.pdf](https://github.com/RenatodePaula19/senaitcc-filtro-de-candidatos/files/8628066/DIAGRAMA_TCC_3.0.pdf)
 
 
 
